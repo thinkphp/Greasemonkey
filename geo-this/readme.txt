@@ -1,0 +1,1 @@
+A greasemonkey script using Yahoo! Placemaker to geolocate blog posts.

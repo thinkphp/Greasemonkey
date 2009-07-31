@@ -1,0 +1,1 @@
+A greasemonkey script using Google to translate texts.
